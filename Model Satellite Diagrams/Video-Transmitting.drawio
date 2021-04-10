@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T21:29:45.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="eK81CmTwHOOLhRSNFkGp" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T21:32:13.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="hQlNgKzL94ButJZRiDtr" version="14.5.10" type="github">
   <diagram id="0OpG36uC_l2O-A9Mquys" name="Page-1">
     <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,10 +45,10 @@
         <mxCell id="s_yaDZpPtMgB8WJ1-4bx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-9" target="s_yaDZpPtMgB8WJ1-4bx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-9" value="Başla" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-9" value="Başla" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="145" y="10" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-11" value="Videoyu ilet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-11" value="Video paketini ilet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_yaDZpPtMgB8WJ1-4bx-13" value="&lt;font color=&quot;#00ff00&quot;&gt;Evet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -89,6 +89,42 @@
         </mxCell>
         <mxCell id="s_yaDZpPtMgB8WJ1-4bx-25" value="&lt;font color=&quot;#00ff00&quot;&gt;Evet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-26" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-21" target="s_yaDZpPtMgB8WJ1-4bx-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-27" value="&lt;font color=&quot;#ff0000&quot;&gt;Hayır&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-28" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-15" target="s_yaDZpPtMgB8WJ1-4bx-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-29" value="&lt;font color=&quot;#ff0000&quot;&gt;Hayır&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-30" value="Bitir" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-31" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00FF00;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-21" target="s_yaDZpPtMgB8WJ1-4bx-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-32" value="&lt;font color=&quot;#00ff00&quot;&gt;Evet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
