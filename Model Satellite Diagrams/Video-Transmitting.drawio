@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T21:21:01.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="ifKcW0jkdIOGbP0C_Vxl" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T21:29:45.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="eK81CmTwHOOLhRSNFkGp" version="14.5.10" type="github">
   <diagram id="0OpG36uC_l2O-A9Mquys" name="Page-1">
     <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="s_yaDZpPtMgB8WJ1-4bx-2" value="Yer İstasyonu arayüzünden gönderilicek videonun konumu seçilir." style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="170" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-4" target="s_yaDZpPtMgB8WJ1-4bx-2">
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF0000;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-4" target="s_yaDZpPtMgB8WJ1-4bx-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="200" as="targetPoint" />
             <Array as="points">
@@ -25,17 +25,70 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-4" value="Video seçilen konumda mı ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00FF00;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-4" target="s_yaDZpPtMgB8WJ1-4bx-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="410" />
+              <mxPoint x="310" y="410" />
+              <mxPoint x="310" y="60" />
+              <mxPoint x="474" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-4" value="Video seçilen konumda mı ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="110" y="270" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-6" value="Hayır" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="260" y="270" width="40" height="20" as="geometry" />
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-6" value="&lt;font color=&quot;#ff0000&quot;&gt;Hayır&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s_yaDZpPtMgB8WJ1-4bx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-9" target="s_yaDZpPtMgB8WJ1-4bx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s_yaDZpPtMgB8WJ1-4bx-9" value="Başla" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="145" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-11" value="Videoyu ilet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-13" value="&lt;font color=&quot;#00ff00&quot;&gt;Evet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-14" value="İletim Döngüsü" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="414" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-15" value="Gönderilen paket ulaştı mı?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-21" value="İletilen son paket mi?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-22" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-14" target="s_yaDZpPtMgB8WJ1-4bx-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-11" target="s_yaDZpPtMgB8WJ1-4bx-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-24" value="" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#00FF00;" edge="1" parent="1" source="s_yaDZpPtMgB8WJ1-4bx-15" target="s_yaDZpPtMgB8WJ1-4bx-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_yaDZpPtMgB8WJ1-4bx-25" value="&lt;font color=&quot;#00ff00&quot;&gt;Evet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
